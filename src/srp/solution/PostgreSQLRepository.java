@@ -1,4 +1,4 @@
-package srp;
+package srp.solution;
 
 public class PostgreSQLRepository implements Repository{
     @Override
